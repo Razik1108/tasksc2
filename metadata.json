@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Team Task Manager",
+  "description": "Full-stack project and task management with RBAC using Node, Express, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
